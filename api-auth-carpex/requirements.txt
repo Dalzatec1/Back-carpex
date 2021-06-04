@@ -1,0 +1,14 @@
+Click==7.0
+Flask==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+Werkzeug==1.0.0
+oauth2client>=4.1.2
+requests>=2.19.1
+requests-toolbelt>=0.7.1
+pycryptodome
+pyrebase4
+firebase_admin
+CORS
+flask_cors
